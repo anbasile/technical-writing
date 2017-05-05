@@ -47,6 +47,12 @@ Because one has only learnt to get the better of words
 For the thing one no longer has to say, or the way in which 
 One is no longer disposed to say it."
 
+## Making a presentation
+
+https://www.cs.cmu.edu/~mihaib/presentation-rules.html
+
+Useful tips.
+
 
 
 
