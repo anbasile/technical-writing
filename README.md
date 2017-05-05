@@ -28,5 +28,25 @@ This book is half an autobiography of Stephen King and half writing advice. Alth
 ### Good Plain English: The problem with writing manuals 
 Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
 
+# Presentations
+
+## 'Mastering public presentations' by Tim Miller
+
+https://vimeo.com/21455811
+
+This seminar on technical communication and presentations was prepared and given by Tim Miller of SpokenScience.com. This seminar provides the fundamentals in sharing science as Miller explains how to choose the very best tools to do the job of communication and shares some of the tips and tricks that can help you take your scientific presentations to the next level. Miller led this particular version at Duke University in the summer of 2010.
+
+## 'How to present a paper' by Leslie Lamport
+
+http://lamport.azurewebsites.net/pubs/howto.txt
+
+"So here I am...
+Trying to learn to use words, and every attempt 
+Is a wholly new start, and a different kind of failure
+Because one has only learnt to get the better of words
+For the thing one no longer has to say, or the way in which 
+One is no longer disposed to say it."
+
+
 
 
